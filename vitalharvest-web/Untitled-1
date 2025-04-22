@@ -1,0 +1,11 @@
+1### Checkpoint 1: Development Environment Setup
+- [x] Install Visual Studio Code
+- [x] Install Node.js
+- [x] Install Git
+- [x] Test installations
+- [ ] Configure VS Code extensions
+
+### Development Resources:
+- Node.js Documentation: https://nodejs.org/docs
+- Express.js Guide: https://expressjs.com/
+- OpenAI API Documentation: https://platform.openai.com/docs

@@ -1,0 +1,17 @@
+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
+
+
+
+
+
+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
+
+VITE_OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Personal access tokens (classic) git hub
+
+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
+
+
+Great! We found the GitHub CLI executable at C:\Program Files\GitHub CLI\gh.exe . Let's add this to your PATH:

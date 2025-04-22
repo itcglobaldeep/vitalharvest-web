@@ -1,0 +1,33 @@
+.about {
+  padding: 2rem 0;
+}
+
+.about-hero {
+  text-align: center;
+  padding: 4rem 0;
+  background-color: #f5f5f5;
+  margin-bottom: 3rem;
+}
+
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.mission, .values {
+  margin-bottom: 3rem;
+}
+
+.values ul {
+  list-style: none;
+  padding: 0;
+}
+
+.values li {
+  padding: 1rem;
+  margin: 0.5rem 0;
+  background: white;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}

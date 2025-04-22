@@ -1,0 +1,6 @@
+{
+  "ignore": ["*.test.js", "redis/*", "scripts/*"],
+  "delay": "2500",
+  "watch": ["*.js", "routes/*"],
+  "ext": "js,json"
+}
